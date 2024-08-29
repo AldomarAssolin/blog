@@ -85,7 +85,7 @@ usuário o salve como favorito.
 pode ver e gerenciar seus artigos favoritos. 
 - Tecnologias Envolvidas: PHP (para salvar e recuperar favoritos), MySQL (para 
 armazenar informações de favoritos), HTML/CSS/JavaScript (para a interface 
-do usuário). 
+do usuário).
 
 <div align="center">
     <img src="src/assets/images/logo_black-recort.png" width="220"/>
