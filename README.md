@@ -1,7 +1,7 @@
 # Blog
 
 <div align="center">
-    <img src="src/assets/images/Seminário Interdisciplinar.png" width="920"/>
+    <img src="src/assets/images/SeminarioInterdisciplinar.png" width="920"/>
 </div>
 
 ## Blog em desenvolvimento para trabalho(PAPER) do 5° semestre da Faculdade de Análise e Desenvolvimento de Sistemas.
@@ -85,7 +85,11 @@ usuário o salve como favorito.
 pode ver e gerenciar seus artigos favoritos. 
 - Tecnologias Envolvidas: PHP (para salvar e recuperar favoritos), MySQL (para 
 armazenar informações de favoritos), HTML/CSS/JavaScript (para a interface 
-do usuário). 
+do usuário).
+
+<div align="center">
+    <img src="src/assets/images/logo_black-recort.png" width="920"/>
+</div>
 
 <div align="center">
     <img src="src/assets/images/Seminário Interdisciplinar.png" width="920"/>
