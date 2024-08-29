@@ -9,7 +9,7 @@
 ## Integrantes do grupo
 
 - [@aldomarassolin](https://www.github.com/AldomarAssolin)
-- [@pedroleite](https://www.github.com/pedroleite)
+- [@pedroleite]((https://github.com/PedroLeite009))
 - [@jeanbiotto](https://www.github.com/jeanbiotto)
 - [@robertovitorvilela](https://www.github.com/#)
 - [@viniciustria](https://www.github.com/jeanbiotto)
