@@ -87,9 +87,6 @@ pode ver e gerenciar seus artigos favoritos.
 armazenar informações de favoritos), HTML/CSS/JavaScript (para a interface 
 do usuário). 
 
-## Considerações Finais 
-Com essas funcionalidades bem definidas, você pode avançar para o desenvolvimento das 
-fases do projeto, como criação do diagrama de casos de uso e a implementação 
-propriamente dita. Essas funcionalidades também podem ser priorizadas, permitindo que 
-você e seu grupo foquem nas partes mais essenciais primeiro e deixem outras para uma fase 
-posterior, se necessário. 
+<div align="center">
+    <img src="src/assets/images/Seminário Interdisciplinar.png" width="920"/>
+</div>
