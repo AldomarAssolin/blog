@@ -88,9 +88,5 @@ armazenar informações de favoritos), HTML/CSS/JavaScript (para a interface
 do usuário).
 
 <div align="center">
-    <img src="src/assets/images/logo_black-recort.png" width="920"/>
-</div>
-
-<div align="center">
-    <img src="src/assets/images/Seminário Interdisciplinar.png" width="920"/>
+    <img src="src/assets/images/logo_black-recort.png" width="220"/>
 </div>
