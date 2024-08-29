@@ -1,5 +1,9 @@
 # Blog
 
+<div align="center">
+    <img src="src/assets/images/Seminário Interdisciplinar.png" width="920"/>
+</div>
+
 ## Blog em desenvolvimento para trabalho(PAPER) do 5° semestre da Faculdade de Análise e Desenvolvimento de Sistemas.
 
 ### Funcionalidades Detalhadas do Blog
