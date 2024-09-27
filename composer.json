@@ -1,0 +1,19 @@
+{
+    "name": "assol/blog",
+    "description": "Blog para trabalho da faculdade",
+    "autoload": {
+        "psr-4": {
+            "Assol\\Blog\\": "/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aldomar Assolin",
+            "email": "assolinaldomar@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
