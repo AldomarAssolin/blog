@@ -1,10 +1,18 @@
 # Blog
 
 <div align="center">
-    <img src="src/assets/images/Seminário Interdisciplinar.png" width="920"/>
+    <img src="src/assets/images/SeminarioInterdisciplinar.png" width="920"/>
 </div>
 
 ## Blog em desenvolvimento para trabalho(PAPER) do 5° semestre da Faculdade de Análise e Desenvolvimento de Sistemas.
+
+## Integrantes do grupo
+
+- [@aldomarassolin](https://www.github.com/AldomarAssolin)
+- [@pedroleite](https://github.com/PedroLeite009)
+- [@jeanbiotto](https://www.github.com/jeanbiotto)
+- [@robertovitorvilela](https://www.github.com/#)
+- [@viniciustria](https://www.github.com/jeanbiotto)
 
 ### Funcionalidades Detalhadas do Blog
 
@@ -21,7 +29,7 @@ caso a esqueça, geralmente via e-mail.
 informações pessoais. 
 o Tecnologias Envolvidas: PHP (para lógica de backend), MySQL (para 
 armazenamento de dados), HTML/CSS/JavaScript (para formulários e 
-interface). 
+interface) e Bootstrap (para responsividade e reaproveitamento de componentes). 
 ### 2. Interface de Administração para Publicação de Artigos 
 ####  Descrição: Criar uma área restrita para administradores ou editores onde eles possam gerenciar o conteúdo do blog. 
 #####  Funcionalidades: 
@@ -35,7 +43,7 @@ e excluir categorias que organizam os artigos.
 pelos usuários nos artigos, com a opção de aprovar ou deletar. 
 - Tecnologias Envolvidas: PHP (para lógica de backend), MySQL (para 
 armazenar artigos e categorias), TinyMCE ou outro editor WYSIWYG (para 
-formatação de texto), HTML/CSS/JavaScript (para a interface). 
+formatação de texto), HTML/CSS/JavaScript (para a interface), Bootstrap (para responsividade e reaproveitamento de componentes). 
 ### 3. Publicação e Formatação de Artigos 
 ####  Descrição: Permitirá que os artigos sejam publicados com formatação rica, incluindo texto, imagens e links. 
 #####  Funcionalidades: 
@@ -61,7 +69,7 @@ tags atribuídas aos artigos.
 resultados por data, relevância, ou popularidade. 
 - Tecnologias Envolvidas: PHP (para realizar consultas ao banco de dados), 
 MySQL (para armazenar e buscar os artigos), JavaScript (para atualizações 
-dinâmicas de resultados). 
+dinâmicas de resultados), Bootstrap (para responsividade e reaproveitamento de componentes). 
 ### 5. Sistema de Comentários 
 ####  Descrição: Permitir que os usuários comentem nos artigos, promovendo a interação entre os leitores.
 ##### Funcionalidades: 
@@ -75,7 +83,7 @@ comentários de outros, criando uma árvore de conversação.
 quando seu comentário receber uma resposta. 
 - Tecnologias Envolvidas: PHP (para gerenciamento de comentários), MySQL 
 (para armazenar e consultar os comentários), HTML/CSS/JavaScript (para o 
-frontend). 
+frontend), Bootstrap (para responsividade e reaproveitamento de componentes). 
 ### 6. Favoritos e Interação do Usuário 
 ####   Descrição: Funcionalidade que permite aos usuários cadastrados salvar artigos como favoritos para leitura futura. 
 ##### Funcionalidades: 
@@ -85,11 +93,8 @@ usuário o salve como favorito.
 pode ver e gerenciar seus artigos favoritos. 
 - Tecnologias Envolvidas: PHP (para salvar e recuperar favoritos), MySQL (para 
 armazenar informações de favoritos), HTML/CSS/JavaScript (para a interface 
-do usuário). 
+do usuário), Bootstrap (para responsividade e reaproveitamento de componentes).
 
-## Considerações Finais 
-Com essas funcionalidades bem definidas, você pode avançar para o desenvolvimento das 
-fases do projeto, como criação do diagrama de casos de uso e a implementação 
-propriamente dita. Essas funcionalidades também podem ser priorizadas, permitindo que 
-você e seu grupo foquem nas partes mais essenciais primeiro e deixem outras para uma fase 
-posterior, se necessário. 
+<div align="center">
+    <img src="src/assets/images/logo_black-recort.png" width="220"/>
+</div>
